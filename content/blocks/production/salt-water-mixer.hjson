@@ -1,13 +1,12 @@
 name: "Salt water mixer"
 type: "GenericCrafter"
-description: "Mixes salt and water to make you guessed it salt water"
+description: "Mixes salt and water"
 liquidCapacity: 50
-outputLiquid: salt-water/0.9
+outputLiquid: salt-water/2.4
 hasPower: true
 size: 2
 hasLiquids: true
 craftTime: 10
-updateEffect: "none"
 craftEffect: "none"
 consumes: {
 	power: 0.4
