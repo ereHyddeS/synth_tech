@@ -1,0 +1,30 @@
+name: "Salt water mixer"
+type: "GenericCrafter"
+description: "Mixes salt and water to make you guessed it salt water"
+liquidCapacity: 50
+outputLiquid: salt-water/0.9
+hasPower: true
+size: 2
+hasLiquids: true
+craftTime: 10
+updateEffect: "none"
+craftEffect: "none"
+consumes: {
+	power: 0.4
+	liquid: {
+		liquid: "water"
+		amount: 0.25
+	}
+	items: {
+		items: [
+			salt/1
+		]
+	}
+}
+requirements: [
+	copper/50
+	lead/40
+	silicon/35
+]
+category: "crafting"
+research: "melter"
