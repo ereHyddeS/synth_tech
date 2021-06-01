@@ -1,6 +1,6 @@
 name: "Blast Furnace"
 type: "GenericSmelter"
-description: "Uses an advanced system of heating rust with carbon monoxide to produce iron. Produces Large amounts of C02 Gas, Don't blame us for global warming. For your convenience the carbon monoxide is produced inside this machine aswell"
+description: "Uses an advanced system of reducing rust with carbon monoxide to produce iron. Produces Large amounts of C02 Gas, Don't blame us for global warming! For your convenience the carbon monoxide is produced inside this machine aswell"
 liquidCapacity: 10
 hasPower: true
 size: 3
