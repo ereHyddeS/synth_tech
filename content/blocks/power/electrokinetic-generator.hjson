@@ -6,8 +6,8 @@ size: 3
 hasLiquids: true
 powerProduction: 5
 itemDuration: 300
-generateEffect: "none"
-heatColor: #FFFFFF
+generateEffect: "wet"
+heatColor: #ffffff
 randomlyExplode: false
 consumes: {
 	items: {
@@ -15,12 +15,13 @@ consumes: {
 			scrap/4
 		]
 	}
-	liquid: salt-water/0.5
+	liquid: salt-water/0.3
 }
 requirements: [
 	titanium/90
 	copper/200
 	silicon/50
 ]
+drawer: "drawMixer"
 category: "power"
 research: "battery"

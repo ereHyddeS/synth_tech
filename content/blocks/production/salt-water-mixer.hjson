@@ -5,6 +5,7 @@ liquidCapacity: 50
 outputLiquid: salt-water/2.4
 hasPower: true
 size: 2
+updateEffect: wet
 hasLiquids: true
 craftTime: 10
 craftEffect: "none"
@@ -25,5 +26,6 @@ requirements: [
 	lead/40
 	silicon/35
 ]
+drawer: "drawMixer"
 category: "crafting"
 research: "melter"
