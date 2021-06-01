@@ -1,0 +1,23 @@
+type: "SingleTypeGenerator"
+name: "Electrokinetic Generator"
+description: "The ions present in saltwater attract electrons in the iron beneath the layer of rust. As the saltwater flows, the ions attract, dragging along the electrons and generating an electrical current."
+itemCapacity: 20
+size: 3
+hasLiquids: true
+powerProduction: 1
+itemDuration: 300
+consumes: {
+	items: {
+		items: [
+			scrap/4
+		]
+	}
+	liquid: salt-water/1
+}
+requirements: [
+	titanium/90
+	copper/200
+	silicon/50
+]
+category: "power"
+research: "battery"
