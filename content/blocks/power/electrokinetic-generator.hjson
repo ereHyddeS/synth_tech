@@ -4,15 +4,18 @@ description: "The ions present in saltwater attract electrons in the iron beneat
 itemCapacity: 20
 size: 3
 hasLiquids: true
-powerProduction: 0.8
+powerProduction: 1
 itemDuration: 300
+generateEffect: "none"
+heatColor: #FFFFFF
+randomlyExplode: false
 consumes: {
 	items: {
 		items: [
 			scrap/4
 		]
 	}
-	liquid: salt-water/1
+	liquid: salt-water/0.3
 }
 requirements: [
 	titanium/90
