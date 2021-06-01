@@ -4,7 +4,7 @@ description: "The ions present in saltwater attract electrons in the iron beneat
 itemCapacity: 20
 size: 3
 hasLiquids: true
-powerProduction: 1
+powerProduction: 0.8
 itemDuration: 300
 consumes: {
 	items: {
