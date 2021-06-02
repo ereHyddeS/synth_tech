@@ -5,7 +5,7 @@ liquidCapacity: 10
 hasPower: true
 size: 3
 hasLiquids: true
-craftTime: 30
+craftTime: 70
 craftEffect: "none"
 outputItem: iron/1
 consumes: {
