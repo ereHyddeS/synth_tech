@@ -2,4 +2,4 @@ displayName:"Synth Technologies"
 description:"A small yet advanced corporation, from the Andromeda Galaxy"
 name:"synth_tech"
 version: 1.1.5.3
-minGameVersion: 122
+minGameVersion: 126
