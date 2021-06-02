@@ -6,7 +6,7 @@ size: 1
 craftTime: 30
 outputItem: crushed-bauxite/1
 consumes: {
-	power: 4
+	power: 1
 	items: {
 		items: [
 			bauxite/1

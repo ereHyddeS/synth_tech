@@ -9,7 +9,7 @@ craftTime: 30
 craftEffect: "none"
 outputItem: iron/1
 consumes: {
-	power: 5
+	power: 3
 	liquid: {
 		liquid: "water"
 		amount: 0.15
