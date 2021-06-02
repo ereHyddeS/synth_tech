@@ -1,6 +1,6 @@
 # Synth Technologies
 
-![image](https://github.com/CrazyMan390/synth_tech/blob/main/Icon.png?raw=true)
+![image](https://github.com/CrazyMan390/synth_tech/blob/main/icon.png?raw=true)
 
 Installation:
 * Open "mods" in game
