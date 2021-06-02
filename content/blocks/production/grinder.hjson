@@ -3,10 +3,10 @@ type: "GenericCrafter"
 description: "Crushes bauxite to reduce its particle size."
 hasPower: true
 size: 1
-craftTime: 5
+craftTime: 30
 outputItem: crushed-bauxite/1
 consumes: {
-	power: 0.1
+	power: 4
 	items: {
 		items: [
 			bauxite/1
