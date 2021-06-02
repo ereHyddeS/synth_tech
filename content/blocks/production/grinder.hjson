@@ -1,0 +1,23 @@
+name: "Grinder"
+type: "GenericCrafter"
+description: "Crushes bauxite to reduce its particle size."
+hasPower: true
+size: 1
+craftTime: 5
+outputItem: crushed-bauxite/1
+consumes: {
+	power: 0.1
+	items: {
+		items: [
+			bauxite/1
+		]
+	}
+}
+requirements: [
+	iron/35
+	copper/10
+	lead/5
+]
+drawer: "pulverizer"
+category: "crafting"
+research: "kiln"
