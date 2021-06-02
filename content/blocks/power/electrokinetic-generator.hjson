@@ -22,6 +22,5 @@ requirements: [
 	copper/200
 	silicon/50
 ]
-drawer: "drawMixer"
 category: "power"
 research: "battery"
