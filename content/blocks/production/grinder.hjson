@@ -18,6 +18,6 @@ requirements: [
 	copper/10
 	lead/5
 ]
-drawer: "pulverizer"
+drawer: "drawRotator"
 category: "crafting"
 research: "kiln"
