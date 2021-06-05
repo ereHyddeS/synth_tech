@@ -1,0 +1,32 @@
+type: "PowerTurret"
+health: 1500
+name: "Gatling Laser"
+description: "Medium-range turret which shocks nearby ground enemies using power as ammunition."
+targetAir: false
+targetGround: true
+size: 2
+powerUse: 45
+inaccuracy: 1
+rotateSpeed: 20
+range: 200
+shootType: {
+  type: "LightningBulletType"
+  lightningLength: 40
+  speed: 5
+  lifetime: 100
+  damage: 30
+  knockback: 1
+  ammoMultiplier: 1
+  reloadMultiplier: 1
+}
+cooldown: 1
+heatColor: "ff0000"
+shootSound: LaserSound1
+requirements: [
+	silicon/35
+	lead/70
+	titanium/40
+	copper/60
+]
+category: "turret"
+research: arc
