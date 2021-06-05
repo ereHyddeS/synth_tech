@@ -5,7 +5,7 @@ description: "Medium-range turret which shocks nearby ground enemies using power
 targetAir: false
 targetGround: true
 size: 2
-powerUse: 45
+powerUse: 15
 inaccuracy: 1
 rotateSpeed: 20
 range: 200
